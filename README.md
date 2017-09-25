@@ -3,3 +3,4 @@
 Create a new branch is quick and simple.
 Disable Fast forward.
 User 1 Edit.
+User 2 Edit.
